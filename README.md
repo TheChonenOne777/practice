@@ -7,10 +7,10 @@ playing radio online from [http://www.radio-browser.info/webservice/json]
 
 # Stack
 
-Clean architecture
-MVVM with StateFlow
-Coroutines
-Retrofit
+Clean architecture,
+MVVM with StateFlow,
+Coroutines,
+Retrofit,
 Hilt
 
 # Tasks TODO:
