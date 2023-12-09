@@ -5,6 +5,9 @@ This project intended to have only practical purposes.
 A simple application for displaying stations list, filter it in available ways and 
 playing radio online from [http://www.radio-browser.info/webservice/json]
 
+Link to API: https://publicapis.io/radio-browser-api
+Link to working website: https://www.radio-browser.info/search
+
 # Stack
 
 Clean architecture,
@@ -24,3 +27,5 @@ WorkManager and NotificationManager are helpful here.
 
 4) Implement downloading and playing livestream of radio station from the loaded list (if available in API). 
 Dig into a retrofit and understanding foreground services.
+
+5) Add filtering logic via selecting filters in [FilterFragment] and receiving result in ListFragment with new updated data.
